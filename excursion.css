@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.headone{
+  font-size: 50px;
+  font-weight: normal;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+.one {
+  color: aquamarine;
+  font-size: 16px;
+}
+.headtwo {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+.para {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+.two {
+  text-align: right;
+  color: gray;
+}
